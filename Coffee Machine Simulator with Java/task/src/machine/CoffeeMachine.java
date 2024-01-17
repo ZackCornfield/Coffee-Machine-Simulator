@@ -1,7 +1,6 @@
 package machine;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class CoffeeMachine {
     private int availableWater;
@@ -9,7 +8,7 @@ public class CoffeeMachine {
     private int availableBeans;
     private int money;
     private int disposableCups;
-    private List<CoffeeType> coffeeTypes;
+    private ArrayList<CoffeeType> coffeeTypes;
     private State currentState;
 
     public CoffeeMachine(int water, int milk, int coffee, int cups, int money) {
