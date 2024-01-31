@@ -23,5 +23,5 @@ To run the Coffee Machine Simulator project, follow these steps:
      ```
 
 4. **Follow the on-screen instructions**:
-   - Once the program is running, follow the prompts to manage the cinema room.
+   - Once the program is running, follow the prompts
 
